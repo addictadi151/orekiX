@@ -28,10 +28,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="⚡️𝙼𝚢 𝙾𝚠𝚗𝚎𝚛⚡️", url="https://t.me/DANISH_BABA"
+                text="⚡️My Owner⚡️", url="https://t.me/xD_Aditya"
             ),
             InlineKeyboardButton(
-                text="✨ 𝚂𝚞𝚙𝚙𝚘𝚛𝚝 𝙶𝚛𝚘𝚞𝚙 ✨", url="https://t.me/WEFRIENDSCIRCLE"
+                text="✨ Channel ✨", url="http://t.me/slowpoisonlove"
             ),                       
         ],        
     ]
