@@ -1,12 +1,12 @@
 {
-  "name": "𝐃𝐀𝐍𝐈𝐒𝐇 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓",
+  "name": "OrekiMusicBot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "logo": "https://te.legra.ph/file/b4f22004b01cd38ac98fe.jpg",
+  "logo": "https://te.legra.ph/file/78b3c936b44f310915113.jpg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
-  "DANISH_MUSIC_BOT",
+  "OrekiMusicBot",
   "telegram-bot",
   "pyrogram"
   ],
@@ -44,7 +44,7 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
-      "value": "𝐃𝐀𝐍𝐈𝐒𝐇 𝐌𝐔𝐒𝐈𝐂 𝐁𝐎𝐓",
+      "value": "orekiMusicBot",
       "required": true
     },    
     "OWNER_ID": {
@@ -99,12 +99,12 @@
     },
     "THUMB_LINK": {
       "description": "Telegraph image link of a image which you want to set as thumbnail.",
-      "value": "https://te.legra.ph/file/b4f22004b01cd38ac98fe.jpg",
+      "value": "https://te.legra.ph/file/78b3c936b44f310915113.jpg",
       "required": true
     },
     "BOT_USERNAME": {
       "description": "Your bot's username.",
-      "value": "DANISHMUSIC_BOT",
+      "value": "",
       "required": true
     },
     "LIMIT": {
