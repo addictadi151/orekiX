@@ -500,7 +500,7 @@ async def start_markup_check(_, CallbackQuery):
         if command == "DIT":
             diske = psutil.disk_usage("/").percent
             await CallbackQuery.answer(
-                f"DANISH MSUIC BOT Disk Usage: {diske}%", show_alert=True
+                f"OrekiMusicBot Disk Usage: {diske}%", show_alert=True
             )
     except Exception:
         pass
