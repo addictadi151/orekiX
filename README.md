@@ -91,7 +91,7 @@ Distributed under the [GNU General Public License v3.0 License.](https://github.
 
 ## Acknowledgements
 
-Special thanks to these amazing projects/people which/who help power DANISH MUSIC BOT:
+Special thanks to these amazing projects/people which/who help power OREKI MUSIC BOT:
 
 # [Team Yukki](https://t.me/OfficialYukki)
 
