@@ -65,8 +65,8 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/amaninamdar09/DANISHMUSICBOT
-shikhar@MacBook~ $ cd DANISHMUSICBOT
+shikhar@MacBook~ $ git clone https://github.com/orekixadi/orekiX
+shikhar@MacBook~ $ cd orekiX
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
 ```
@@ -97,14 +97,9 @@ Special thanks to these amazing projects/people which/who help power DANISH MUSI
 
 # Contact & Support
 
-## [Telegram Support](https://t.me/WEFRIENDSCIRCLE) 
-# [My Owner](https://t.me/DANISH_BABA)
+## [Telegram Support](https://t.me/orekiMusicBot_support) 
+# [My Owner](https://t.me/iLOSTinY0U)
 
-
-
-# Thank You Guys..
-## [Shreyash OP](https://t.me/TECH_SHREYASH)
-## [Hunter OP](https://t.me/HunterXD)
 
 
 
