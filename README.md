@@ -1,16 +1,16 @@
-<p align="center"><img src="https://te.legra.ph/file/0a6de300e146564f8adad.jpg" alt="ICON" width="80%"/></p>
+<p align="center"><img src="https://te.legra.ph/file/78b3c936b44f310915113.jpg" alt="ICON" width="80%"/></p>
 
 <h4 align="center">
     A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
 </h4>
 <p align="center">
-    <a href="https://t.me/DANISHMUSIC_BOT"> Ready-To-Use Bot </a> •
+    <a href="https://t.me/musicxoreki_bot"> Ready-To-Use Bot </a> •
     <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/DANISH_BABA"> Contact Owner </a> •
-    <a href="https://t.me/WEFRIENDSCIRCLE"> Support Chat </a> 
+    <a href="https://t.me/iLostiny0u"> Contact Owner </a> •
+    <a href="https://t.me/orekiMusicBot_support"> Support Chat </a> 
 </p>
     
-# [DANISH MUSIC BOT](https://t.me/DANISHMUSIC_BOT)
+# [OREKI MUSIC BOT](https://t.me/MusicXoreki_bot)
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
